@@ -1,4 +1,4 @@
-
+// agar samjh na aaye to sari cheeje comment kro aur ek ek kr ke starting se comment htao aur changes dekho
 
 
 // let firstEL = document.querySelector(".myClass"); 
